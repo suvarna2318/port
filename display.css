@@ -1,0 +1,14 @@
+div{
+    background-color: salmon;
+    text-align: center;
+    padding: 2%;
+}
+a{
+    display:inline-block;
+    text-decoration: none;
+    color: azure;
+}
+
+a:hover{
+    background-color: brown;
+}
